@@ -38,6 +38,8 @@ public:
     //        j++;
 
     //     }
+
+//SECOUND APPROACH
            
         int l=0;
         int m=0;
